@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/abin135/message-display-from-click.git/static/css/main.bf872723.css",
+    "main.js": "/abin135/message-display-from-click.git/static/js/main.093de665.js",
+    "static/js/453.3cadb23c.chunk.js": "/abin135/message-display-from-click.git/static/js/453.3cadb23c.chunk.js",
+    "index.html": "/abin135/message-display-from-click.git/index.html",
+    "main.bf872723.css.map": "/abin135/message-display-from-click.git/static/css/main.bf872723.css.map",
+    "main.093de665.js.map": "/abin135/message-display-from-click.git/static/js/main.093de665.js.map",
+    "453.3cadb23c.chunk.js.map": "/abin135/message-display-from-click.git/static/js/453.3cadb23c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf872723.css",
+    "static/js/main.093de665.js"
+  ]
+}
